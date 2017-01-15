@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  collectioner_id: 
+  is_live: false
+  title: MyString
+  color_dark: MyString
+  color_light: MyString
+
+two:
+  collectioner_id: 
+  is_live: false
+  title: MyString
+  color_dark: MyString
+  color_light: MyString
